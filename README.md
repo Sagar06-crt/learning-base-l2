@@ -1,4 +1,4 @@
-# learning-base-l2
+
 # Building on Base 🔵
 
 This repository is my starting point for learning about the Base L2 ecosystem. 
